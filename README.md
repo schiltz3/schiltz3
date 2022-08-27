@@ -1,8 +1,12 @@
 ### Hi there 👋
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schiltz3&theme=onedark&column=7" alt="schiltz3" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schiltz3&show_icons=true&locale=en&layout=compact" alt="schiltz3" /></p>
+
+
 <!--
 **schiltz3/schiltz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schiltz3&show_icons=true&locale=en&layout=compact" alt="schiltz3" /></p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
