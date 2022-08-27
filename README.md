@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=schiltz3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **schiltz3/schiltz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
