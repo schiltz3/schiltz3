@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schiltz3&column=7" alt="schiltz3" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schiltz3&theme=onedark&column=7" alt="schiltz3" /></a> </p>
 <!--
 **schiltz3/schiltz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
