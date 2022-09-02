@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schiltz3&theme=onedark&column=7" alt="schiltz3" /></a> </p>
 
-<p align="left"><a href="https://github-readme-stats.vercel.app/api/top-langs?username=schiltz3&show_icons=true&locale=en&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=schiltz3&show_icons=true&locale=en&layout=compact" alt="schiltz3_dark" a/></p>
+<p align="left"><a href="https://github-readme-stats.vercel.app/api/top-langs?username=schiltz3&show_icons=true&locale=en&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=schiltz3&show_icons=true&locale=en&theme=github_dark&layout=compact" alt="schiltz3_dark" a/></p>
 
 * Currently collaborating on [CSSC-Bot](https://github.com/Antares-Network/CSSC-Bot)
 
