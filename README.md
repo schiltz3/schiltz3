@@ -3,7 +3,8 @@
 # About Me
 
 * Studying at UW-Milwaukee
-* Currently collaborating on [CSSC-Bot](https://github.com/Antares-Network/CSSC-Bot)
+* Collaborating on [The DM's Toolkit](https://github.com/schiltz3/The-DMs-Toolkit/)
+* Collaborating on [CSSC-Bot](https://github.com/Antares-Network/CSSC-Bot)
 
 # 
 
