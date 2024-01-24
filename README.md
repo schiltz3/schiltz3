@@ -2,10 +2,14 @@
 
 # About Me
 
+Firmware Engineer @ Milwaukee Tool
+
+Don't look at my old code :'(
+<!--
 * Studying at UW-Milwaukee
 * Collaborating on [The DM's Toolkit](https://github.com/schiltz3/The-DMs-Toolkit/)
 * Collaborating on [CSSC-Bot](https://github.com/Antares-Network/CSSC-Bot)
-
+-->
 # 
 
 # Skills 
